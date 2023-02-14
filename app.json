@@ -1,11 +1,11 @@
 {
   "name": "valentine",
-  "description": "This app does one little thing, and does it well.",
-  "keywords": [
-    "productivity",
-    "HTML5",
-    "scalpel"
-  ],
+  "logo": "https://raw.githubusercontent.com/Neeraj-x0/Millie/main/Millie/millie.jpg",
+  "description": "valentine",
   "repository": "https://github.com/SamBingo3/VALENTNEFVDF",
-  "logo": "https://small-sharp-tool.com/logo.svg",
-  }
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "whatsapp-bot"
+  ]
+}
